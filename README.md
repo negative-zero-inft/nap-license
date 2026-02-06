@@ -1,60 +1,111 @@
-# The Non-Aggression License (NAPL)
+# NAPALM: The Non-Aggression Principle Anti-License Mandate
 
-## About This License
+**Current Version:** 2.0 (The "Asset Seizure" Revision)
 
-The Non-Aggression License (NAPL) is a software license designed to bridge the gap between open collaboration and the libertarian ethical framework known as the Non-Aggression Principle (NAP).
+## About This Mandate
 
-Unlike traditional open-source licenses which focus solely on copyright and access to source code, the NAPL introduces a moral condition to the usage of the software. It is a strong copyleft license that ensures software freedom is preserved for peaceful individuals, while strictly prohibiting the software's use for acts of "Aggression" or the initiation of conflict.
+**NAPALM** is not a "software license." It is a **Conditional Title Transfer** designed to operationalize the libertarian ethical framework known as the **Non-Aggression Principle (NAP)** within the realm of scarce resources.
+
+Unlike traditional open-source licenses (GPL, MIT) which rely on State-granted copyright monopolies to enforce compliance, NAPALM relies on **Objective Logic** and **Property Rights**. It treats the software (or resource) as private property that is transferred to you *conditionally*.
 
 ### Key Philosophy
-The NAPL is built on the Axiom of Individualism. It explicitly rejects the concept of "Group Property" (such as state or collective ownership) and recognizes property rights, including the rights to this software, as residing solely with individuals.
+
+NAPALM is derived from the **Axiom of Existence** ($A$ is $A$) and the **Title-Transfer Theory of Contract**.
+
+* **The State** claims jurisdiction over all property, effectively reducing citizens to tenants.
+
+* **NAPALM** rejects this. It asserts that if you initiate force (Aggression), you logically negate your own right to property.
+
+* Therefore, an Aggressor cannot hold valid title to this software.
 
 ## Intended Use
 
-This license is intended for developers who:
-* Want to share their source code freely with the community.
-* Believe in strong property rights and voluntary exchange.
-* Do not want their software to be used by entities or individuals that initiate force, violence, or theft (e.g., military aggression, unauthorized seizure of property, or coercive state actions).
+This Mandate is for creators who:
 
-If you want your code to be free for peaceful people but forbidden to aggressors, the NAPL is designed for you.
+* Want to share their work with the peaceful economy.
 
----
+* **Reject** the legitimacy of Intellectual Property laws.
 
-## Comparison: NAPL vs. Other Licenses
+* Want to ensure their work **never** assists the State, the Military-Industrial Complex, or institutional coercion.
 
-The NAPL stands apart from both standard Open Source licenses (which allow any use, including violence) and Proprietary EULAs (which restrict use for commercial gain).
+## How It Works (The "Kill-Switch")
 
-| License | Type | Source Access | Copyleft? | Usage Restrictions | Philosophy |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **NAPL v1.1** | Ethical Copyleft | **Open** | **Yes** | **Strict (Non-Aggression).** Forbidden for aggressors. | Individual Property Rights |
-| **GNU GPLv3** | Strong Copyleft | Open | Yes | **None.** "Freedom 0" allows any use (even military). | User Software Freedom |
-| **MIT / BSD** | Permissive | Open | No | **None.** Minimal restrictions. | Simplicity & Minimalism |
-| **Apache 2.0** | Permissive | Open | No | **None.** Includes patent grants. | Corporate Safety & Collaboration |
-| **The Unlicense** | Public Domain | Open | No | **None.** No copyright is claimed. | Total Deregulation |
-| **Standard EULA** | Proprietary | **Closed** | N/A | **Strict (Commercial).** Restrictions are arbitrary/financial. | Vendor Control & Profit |
+1. **Title Transfer:** You are not "licensed" to use the code; you are given *ownership* of a copy, subject to a **Condition Subsequent**.
 
-### Why isn't it "Open Source"?
-In the strict definition maintained by the Open Source Initiative (OSI), a license cannot discriminate against any person or group, even if that group is doing something objectionable.
-* **OSI Licenses (GPL, MIT, Apache)** imply that even a tyrant is allowed to use the software.
-* **The NAPL** asserts that a tyrant loses the right to use the software the moment they initiate aggression.
+2. **The Condition:** You must remain a Non-Aggressor.
 
-Therefore, the NAPL is better classified as "Ethical Source" or "Source Available" rather than standard Open Source.
+3. **Automatic Reversion:** The moment you initiate force (e.g., collect taxes, enforce regulations, file a patent lawsuit), the Title reverts to the Author.
 
----
+4. **Trespass:** Continued use after reversion is not "copyright infringement"—it is **Theft** and **Trespass**.
+
+## Comparison: NAPALM vs. The World
+
+| License | Type | Source Access | Philosophy | Treatment of The State | 
+ | ----- | ----- | ----- | ----- | ----- | 
+| **NAPALM v2.0** | **Anti-License** | **Open** | **Anarcho-Objectivist** | **Hostile.** State use is "Void Ab Initio" (Theft). | 
+| **NAPL v1.1** | Ethical Copyleft | Open | Libertarian | **Restrictive.** Prohibits aggressive acts, but relies on Copyright Law. | 
+| **GNU GPLv3** | Strong Copyleft | Open | Software Freedom | **Permissive.** Allows tyranny/military use ("Freedom 0"). | 
+| **MIT / BSD** | Permissive | Open | Minimalism | **Permissive.** Corporate/State friendly. | 
+| **Proprietary** | Closed | Closed | Profit/Control | **Transaction.** often sells directly to the State. | 
 
 ## FAQ
 
-**Q: Can I sell software licensed under NAPL?**
-**A:** Yes. The license allows for "voluntary exchange." You can sell the software or services related to it, provided the transaction does not involve Aggression (fraud, theft, coercion).
+**Q: Is this "Open Source"?**
+**A:** No. The Open Source Initiative (OSI) requires that licenses allow *anyone* to use the software, including genocidal dictators. NAPALM is **Ethical Source** or **Strict Scarcity** software. We discriminate against Aggressors.
 
-**Q: If I work for a government agency, can I use this?**
-**A:** It depends. The license defines "Aggression" as the initiation of conflict against established Property Rights. If your usage involves enforcing collective claims that violate individual property (as defined in Section 2 & 6), your rights to the software are automatically terminated.
+**Q: Can I sell software under NAPALM?**
+**A:** **Yes.** Voluntary exchange is the bedrock of the NAP. You can sell it, fork it, or build businesses on it, provided you do not use the State to enforce your business model.
 
-**Q: Is this compatible with the GPL, MIT, or Apache?**
-**A:**
-* **GPL:** No. The GPL forbids additional restrictions.
-* **MIT/Apache/BSD:** You can include MIT/Apache code *inside* a NAPL project (since those licenses are permissive), but the resulting combined work must be distributed under the NAPL to maintain the Non-Aggression clause.
+**Q: I work for the government. Can I use this?**
+**A:** **No.**
 
----
+* **Institutional Use:** If your agency is funded by taxation (theft), it is structurally disqualified from holding title. Any use is **Trespass**.
 
-**Legal Disclaimer:** This README provides a summary and interpretation of the license text. It does not constitute legal advice. When adopting a custom license for critical projects, consult with a legal professional.
+* **Personal Use (Safe Harbor):** If you are a peaceful individual (e.g., a teacher or firefighter) using it at home for personal projects, you are likely covered by the Safe Harbor clause, provided you don't use it to do your government job.
+
+**Q: Is this compatible with the GPL?**
+**A:** **No.** They are mutually exclusive.
+
+* GPL says: "You cannot stop people from using this for war."
+
+* NAPALM says: "You MUST stop people from using this for war."
+
+* **Result:** You cannot distribute a binary containing both. This allows NAPALM to be used as a "poison pill" to brick the distribution of Statist software.
+
+## Evolutionary Diff: NAPL v1.1 vs. NAPALM v2.0
+
+The project has evolved from a standard restrictive license to a weaponized legal instrument.
+
+### 1. Shift in Legal Theory
+
+* **NAPL v1.1:** Relied on **Copyright Law**. It threatened to sue you in a government court for "infringement" if you broke the rules.
+
+* **NAPALM v2.0:** Relies on **Title-Transfer Theory**. It declares that the State has no standing. It enforces via **Repossession**, **Lien**, and **Debt**.
+
+### 2. Definition of "The State"
+
+* **NAPL v1.1:** Implicitly treated the State as a bad actor, but tried to regulate it.
+
+* **NAPALM v2.0:** Explicitly defines the State as a **"Universal Trespasser"**. It creates the "Property Paradox," arguing that the State cannot legally own *anything* because its existence violates property rights.
+
+### 3. Consequences of Violation
+
+* **NAPL v1.1:** "Your rights terminate." (Passive).
+
+* **NAPALM v2.0:** "Automatic Reversion of Title" + **"Restitution Debt"**.
+
+  * The Aggressor now owes the Author a debt payable in **Gold/XMR** at a **100:1 ratio** relative to the damage caused.
+
+  * Establishes a **Permanent Lien** against the Aggressor's personal estate (house, cars, assets).
+
+### 4. Malicious Compliance Features
+
+* **NAPL v1.1:** Simple copyleft.
+
+* **NAPALM v2.0:**
+
+  * **Incompatibility Bomb:** Specifically designed to break GPL dependency chains.
+
+  * **Involuntary Trusteeship:** Any value created by a thief using the software belongs to the Author.
+
+  * **Waiver of Immunity:** Forces bureaucrats to waive "Sovereign Immunity" to use the software.
